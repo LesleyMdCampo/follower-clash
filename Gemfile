@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
-gem 'foreman'
 
+gem 'foreman'
 gem 'twitter'
